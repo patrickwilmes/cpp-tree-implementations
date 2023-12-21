@@ -3,4 +3,4 @@ project(cpp_tree_implementations)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(cpp_tree_implementations main.cpp)
+add_executable(BinaryTree BinaryTree.cpp)
